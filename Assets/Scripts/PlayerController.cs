@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+
 public class PlayerController : MonoBehaviour
 {
     public float speed;
@@ -56,8 +57,12 @@ public class PlayerController : MonoBehaviour
         // [12] check if the player is shooting
         if (shootAction.triggered)
         {
-            // [13] spawn a projectile
-            Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
+            //// [13] spawn a projectile
+            //Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
         }
+
+        var go = ProjectileObjectPool.instance.Acquire();
+        go.transform.SetPositionAndRotation(
+            transform.position, projectilePrefab.transform.rotation);
     }
 }

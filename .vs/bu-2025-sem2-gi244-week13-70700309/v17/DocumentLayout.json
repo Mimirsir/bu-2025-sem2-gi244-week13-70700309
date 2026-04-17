@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\github\\bu-2025-sem2-gi244-week13-70700309\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\github\\bu-2025-sem2-gi244-week13-70700309\\assets\\scripts\\projectileobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectileobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\github\\bu-2025-sem2-gi244-week13-70700309\\assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\github\\bu-2025-sem2-gi244-week13-70700309\\assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\github\\bu-2025-sem2-gi244-week13-70700309\\assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\github\\bu-2025-sem2-gi244-week13-70700309\\assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6368E3-C179-08B8-8D56-E8288E7C649B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\Food.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Food.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\Food.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:15:04.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:50:26.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestroyOutOfBound.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:21:04.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectileObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvwEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:54:58.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersistentObject.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentObject.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentObject.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwBEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:30:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnotherObject.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnotherObject.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week13-70700309\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnotherObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:27:19.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
